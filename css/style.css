@@ -1,0 +1,35 @@
+h1 {
+    color: blue;
+    background: #58ACFA;
+
+}
+
+#firstOne {
+    color: green;
+}
+
+
+#secondOne {
+    color: yellow;
+    padding: 10px;
+    margin: 30px;
+    border: pink solid 1px;
+}
+
+.pinkTxt {
+    color: pink;
+}
+
+.brdrRed {
+    border: red solid 1px;
+    color: red !important;
+}
+
+.brdrBlu {
+    border: blue solid 1px;
+}
+
+h1:hover {
+    color: orange;
+    cursor: pointer;
+}
